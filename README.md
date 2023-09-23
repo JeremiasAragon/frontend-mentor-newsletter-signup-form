@@ -5,7 +5,6 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
