@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Results summary component - Netlify](https://results-summary-component-jeremias.netlify.app/)
+- Live Site URL: [Results summary component - Netlify](https://newsletter-signup-form-jeremias.netlify.app/)
 
 ## My process
 
